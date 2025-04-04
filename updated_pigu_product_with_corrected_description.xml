@@ -1,0 +1,54 @@
+
+<products>
+  <product>
+    <category-id>1268</category-id>
+    <product-url>https://mano-parduotuve.lt/preke/10010005</product-url>
+    <category-name>Virtuvės įranga</category-name>
+    <title>Laisvai pastatoma elektrinė gruzdintuvė ant spintelės 400V 10L</title>
+    <long-description>Profesionali, laisvai pastatoma 16 L talpos elektrinė gruzdintuvė, puikiai tinkanti dideliems patiekalų kiekiams ruošti. 
+Efektyvus 6000 W kaitinimo elementas greitai pasieks 200°C temperatūrą, o įmontuotas termostatas palaikys ją reikiamame lygyje. 
+Naudojant šaltą zoną, krentantys maisto likučiai nesudega kepant, todėl galėsite paruošti kokybiškus patiekalus.
+
+Saugų įrenginio naudojimą garantuoja sistema, kuri automatiškai išjungia šildytuvą, kai jis pakreipiamas atgal. 
+Be to, krepšelyje yra neįkaistanti rankena, apsauganti nuo nudegimų. Keptuvės stabilumą užtikrina guminės, neslidžios kojelės.
+
+Įrangą lengva valyti dėl nuimamo kaitinimo elemento. Naudojamas riebalams pašalinti išleidimo čiaupas, esantis spintelės viduje. 
+Nerūdijančio plieno konstrukcija apsaugo ir gruzdintuvą, ir korpusą nuo nuolatinio nešvarumų ir palengvina valymą. 
+Plienas taip pat atsparus mechaniniams pažeidimams, o metalo biologinis inertiškumas leidžia liestis su maistu be pavojaus sveikatai.
+
+Keptuvė yra ant erdvios spintelės, kuri puikiai tiks reikalingų priedų laikymui. Dėl to jie visada bus po ranka.</long-description>
+    <properties>
+      <property>
+        <id>manufacturer</id>
+        <values>
+          <value>Royal Catering</value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <images>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10010005-frytkownica-wolnostojaca-elektryczna-na-szafce-400-v-16-l-hurtownia-sklep-zielona-gora.jpg</url>
+          </image>
+          <image>
+            <url>https://www.hurtowniaprzemyslowa.pl/images/produkty/104/10010005-1.jpg</url>
+          </image>
+        </images>
+      </colour>
+    </colours>
+    <modifications>
+      <modification>
+        <weight>23.1</weight>
+        <length>0.6</length>
+        <height>0.6</height>
+        <width>0.4</width>
+        <barcodes>
+          <barcode>4260223021305</barcode>
+        </barcodes>
+        <supplier-code>oxpg6964</supplier-code>
+        <manufacturer-code>G0133901</manufacturer-code>
+      </modification>
+    </modifications>
+  </product>
+</products>
